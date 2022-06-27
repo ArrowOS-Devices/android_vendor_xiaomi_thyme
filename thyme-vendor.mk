@@ -80,8 +80,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/thyme/proprietary/system_ext/lib64/vendor.qti.hardware.data.iwlan@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.hardware.data.iwlan@1.0.so \
     vendor/xiaomi/thyme/proprietary/system_ext/lib64/vendor.qti.hardware.data.qmi@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.hardware.data.qmi@1.0.so \
     vendor/xiaomi/thyme/proprietary/system_ext/lib64/vendor.qti.imsrtpservice@3.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.imsrtpservice@3.0.so \
-    vendor/xiaomi/thyme/proprietary/product/vendor_overlay/30/lib/rfsa/adsp/misound_res.bin:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/30/lib/rfsa/adsp/misound_res.bin \
-    vendor/xiaomi/thyme/proprietary/product/vendor_overlay/30/lib/rfsa/adsp/misound_res_headphone.bin:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/30/lib/rfsa/adsp/misound_res_headphone.bin \
     vendor/xiaomi/thyme/proprietary/product/vendor_overlay/30/lib/rfsa/adsp/misound_res_spk.bin:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/30/lib/rfsa/adsp/misound_res_spk.bin \
     vendor/xiaomi/thyme/proprietary/product/vendor_overlay/30/lib/soundfx/libvolumelistener.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/30/lib/soundfx/libvolumelistener.so \
     vendor/xiaomi/thyme/proprietary/product/vendor_overlay/30/lib64/soundfx/libvolumelistener.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/30/lib64/soundfx/libvolumelistener.so
