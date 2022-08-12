@@ -6,16 +6,6 @@ soong_namespace {
 }
 
 android_app_import {
-	name: "SoterService",
-	owner: "xiaomi",
-	apk: "proprietary/app/SoterService/SoterService.apk",
-	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-}
-
-android_app_import {
 	name: "PowerOffAlarm",
 	owner: "xiaomi",
 	apk: "proprietary/product/app/PowerOffAlarm/PowerOffAlarm.apk",
